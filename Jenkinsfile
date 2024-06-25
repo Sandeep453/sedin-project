@@ -16,3 +16,8 @@ pipeline{
     }
   }
 }
+
+node{
+  //groovy script
+}
+    
